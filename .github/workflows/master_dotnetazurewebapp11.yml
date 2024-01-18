@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'dotNetAzureWebApp11'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BA217EF2F8D74D1B83DCB3757FEE620E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6B6E17C08DEA4F57B85E60CE92A2950F }}
           package: .
